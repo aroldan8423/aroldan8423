@@ -16,7 +16,7 @@ I'm a data analyst passionate about energy markets, financial modeling, and crea
 ## How to reach me
 - Email: aroldan8423@floridapoly.edu 
 - LinkedIn – to be updated soon  
-- GitHub: [github.com/your-username](https://github.com/aroldan8423)
+- GitHub: [github.com/aroldan8423](https://github.com/aroldan8423)
 
 ---
 
