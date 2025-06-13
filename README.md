@@ -14,7 +14,7 @@ I'm a data analyst passionate about energy markets, financial modeling, and crea
 - Data Visualization in R – to be updated soon
 
 ## How to reach me
-- Email: aroldan8423@email.com  
+- Email: aroldan8423@floridapoly.edu 
 - LinkedIn – to be updated soon  
 - GitHub: [github.com/your-username](https://github.com/your-username)
 
