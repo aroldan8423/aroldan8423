@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Alejandro Roldan
 
-<!--
-**aroldan8423/aroldan8423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a data analyst passionate about energy markets, financial modeling, and creating meaningful visualizations using R, Python, and Excel. I currently work at Lakeland Electric and am pursuing a Master's in Engineering Management.
 
-Here are some ideas to get you started:
+## Tools & Skills
+- Languages: R, Python, SQL  
+- Tools: Excel, Power BI, Tableau, Git, Markdown  
+- Industry Focus: Utility data analytics, forecasting, cost recovery
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Natural Gas Price Forecasting – to be updated soon  
+- Power Plant Dispatch Optimization – to be updated soon  
+- Data Visualization in R – to be updated soon
+
+## How to reach me
+- Email: aroldan8423@email.com  
+- LinkedIn – to be updated soon  
+- GitHub: [github.com/your-username](https://github.com/your-username)
+
+---
+
+“Simplicity is the soul of efficiency.” – Austin Freeman
